@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:studize_interview/screens/home_page.dart';
+// import 'package:studize_interview/screens/detail/detail.dart';
+
 
 void main() async {
   runApp(const MyApp());
